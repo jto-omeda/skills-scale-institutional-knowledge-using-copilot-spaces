@@ -14,7 +14,7 @@ Our project lifecycle follows a structured yet flexible path from **Initiation**
 
 Throughout execution, teams follow consistent workflows using project boards, pull request conventions, automated testing, and quality assurance practices. **Risk management and communication** are woven throughout the lifecycle, with regular stakeholder updates, risk register reviews, and escalation paths for blockers. Our release process standardizes deployments through pre-release requirements, deployment checklists, and rollback procedures to minimize production incidents.
 
-Central to our success are well-defined **roles and personas**: Project Managers coordinate delivery and manage schedules, Product Managers define outcomes and prioritize the backlog, Developers implement features with quality and testability in mind, and QA validates acceptance criteria. After each release or milestone, retrospectives capture learnings and generate actionable improvements, fostering a culture of continuous enhancement. Our communication cadence includes weekly PM-PdM syncs, regular standups, monthly stakeholder updates, and ad-hoc escalations as needed, ensuring all parties remain informed and aligned throughout the project journey.
+Central to our success are well-defined **roles and personas**: Project Managers coordinate delivery and manage schedules, Product Managers define outcomes and prioritize the backlog, Developers implement features with quality and testability in mind, and QA validates acceptance criteria. Additionally, Agile Coaches guide teams in Agile practice adoption and continuous improvement, Compliance Leads ensure regulatory adherence and risk mitigation, and Stakeholder Engagement Managers maintain proactive communication and expectation alignment across all stakeholders. After each release or milestone, retrospectives capture learnings and generate actionable improvements, fostering a culture of continuous enhancement. Our communication cadence includes weekly PM-PdM syncs, regular standups, monthly stakeholder updates, and ad-hoc escalations as needed, ensuring all parties remain informed and aligned throughout the project journey.
 
 ## Process Documentation
 
@@ -34,7 +34,15 @@ Below is a complete list of OctoAcme's project management process documents. Eac
 
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Capture learnings, create actionable improvements, and foster a culture of iterative enhancement
 
-- **[Roles & Personas](octoacme-roles-and-personas.md)** — Definitions of key roles including Developers, Product Managers, and Project Managers with their responsibilities and communication patterns
+- **[Roles & Personas](octoacme-roles-and-personas.md)** — Definitions of key roles including Developers, Product Managers, Project Managers, Agile Coaches, Compliance Leads, and Stakeholder Engagement Managers with their responsibilities and communication patterns
+
+## Templates & Checklists
+
+To support clear accountability and effective project governance, the following templates and checklists are available:
+
+- **[RACI Chart Template](template-raci-chart.md)** — Clarify roles and responsibilities using the RACI (Responsible, Accountable, Consulted, Informed) framework
+- **[Stakeholder Communication Plan Template](template-stakeholder-communication-plan.md)** — Structure stakeholder engagement with communication schedules, templates, and feedback mechanisms
+- **[Compliance Review Checklist](checklist-compliance-review.md)** — Systematic compliance review for regulatory, security, and policy requirements
 
 ## Getting Started
 

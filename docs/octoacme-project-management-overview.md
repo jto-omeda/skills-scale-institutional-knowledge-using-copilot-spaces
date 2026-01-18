@@ -18,6 +18,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Agile Coach: guides Agile practice adoption, mentors teams, resolves process impediments.
+- Compliance Lead: ensures regulatory compliance, conducts reviews, supports risk mitigation.
+- Stakeholder Engagement Manager: manages stakeholder communications and expectation alignment.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
