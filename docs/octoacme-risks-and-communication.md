@@ -21,8 +21,10 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Work with Stakeholder Engagement Manager to create and execute communication plans
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Coordinate with Stakeholder Engagement Manager for executive briefings and expectation management
 
 ## Communication Templates
 Weekly Status Template:

@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Clarify roles and responsibilities using [RACI Chart Template](template-raci-chart.md)
 
 ## Backlog Item Template
 - Title:
@@ -29,6 +30,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Timebox planning to agreed sprint length
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
+- Leverage Agile Coach for facilitation and process improvement recommendations
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
